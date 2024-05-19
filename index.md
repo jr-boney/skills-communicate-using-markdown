@@ -21,6 +21,3 @@ undestood markdown and edited this repository
 var myVar = "Hello, world!";
 console.log(myvar);
 ```
-- [x] new one turn on github
-- [x] turnoff github
-- [ ] relax
